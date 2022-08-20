@@ -12,4 +12,8 @@
 **Customizable toast notifications**
 - [react-modal](https://www.npmjs.com/package/react-modal)
     npm i react-modal --legacy-peer-deps
-****
+**Modal with different customizations** 
+- [@tippyjs/react](https://www.npmjs.com/package/@tippyjs/react)
+    npm i @tippyjs/react --legacy-peer-deps
+- Github tippyjs page recommends: https://floating-ui.com/docs/react-dom-interactions 
+**Tippy.js is the complete tooltip, popover, dropdown, and menu solution for the web, powered by Popper.** 

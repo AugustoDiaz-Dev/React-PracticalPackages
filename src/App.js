@@ -2,6 +2,7 @@ import ReactIcons from './reactIcons/ReactIcons';
 import Toastify from './reactToastify/Toastify';
 import { SvgMorph } from './svgMorph/SvgMorph';
 import ReactModal from './reactModal/ReactModal';
+import ReactTippy from './reactTippy/ReactTippy';
 
 function App() {
   return (
@@ -14,6 +15,8 @@ function App() {
       <Toastify/>
       <h2>React Modal</h2>
       <ReactModal/>
+      <h2>React Tippy</h2>
+      <ReactTippy/>
     </div>
   );
 }

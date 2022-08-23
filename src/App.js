@@ -1,5 +1,5 @@
+import React from 'react'
 import ReactIcons from './reactIcons/ReactIcons';
-import Toastify from './reactToastify/Toastify';
 import { SvgMorph } from './svgMorph/SvgMorph';
 import ReactModal from './reactModal/ReactModal';
 import ReactTippy from './reactTippy/ReactTippy';
@@ -16,9 +16,9 @@ function App() {
       <h2>Svg Morph</h2>
       <SvgMorph/>
       <hr />
-      <h2>React Toastify</h2>
+      {/* <h2>React Toastify</h2>
       <Toastify/>
-      <hr />
+      <hr /> */}
       <h2>React Modal</h2>
       <ReactModal/>
       <hr />
@@ -28,6 +28,7 @@ function App() {
       <h2>React CountUp</h2>
       <ReactCountup1/>
       <ReactCountup/>
+      <hr />
       <h2>React Color</h2>
       <ReactColor/>
       <hr />

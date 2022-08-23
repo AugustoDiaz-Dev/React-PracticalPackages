@@ -2,17 +2,17 @@
 
 - [react-icons](https://react-icons.github.io/react-icons/) 
 - npm i react-icons  
-**It provides you with different sets of icons**
+**It provides you with different sets of icons.**
 - [svg-morph](https://github.com/gorangajic/react-svg-morph/)
 - npm i react-svg-morph --legacy-peer-deps
-**Morph your svg components one into another**
+**Morph your svg components one into another.**
 - [react-toastify](https://github.com/fkhadra/react-toastify) 
 - https://fkhadra.github.io/react-toastify/introduction/ // You can customize them
 - npm i react-toastify --legacy-peer-deps
-**Customizable toast notifications**
+**Customizable toast notifications.**
 - [react-modal](https://www.npmjs.com/package/react-modal)
 - npm i react-modal --legacy-peer-deps
-**Modal with different customizations** 
+**Modal with different customizations.** 
 - [@tippyjs/react](https://www.npmjs.com/package/@tippyjs/react)
 - npm i @tippyjs/react --legacy-peer-deps
 - Github tippyjs page recommends: https://floating-ui.com/docs/react-dom-interactions 
@@ -22,4 +22,15 @@
 **A configurable React component wrapper around CountUp.js.**
 - [react-color](https://casesandberg.github.io/react-color/)
 -  npm i react-color legacy-peer-deps
-**Color picker**
+**Color picker.**
+- [react-spinners](https://www.npmjs.com/package/react-spinners)
+-  npm i react-spinners legacy-peer-deps
+- https://yuanyan.github.io/halogen/ 
+- https://github.com/yuanyan/halogen
+**Spinners for react inspired in halogen.**
+
+
+
+<!-- - [react-idle-timer](https://idletimer.dev/)
+-  npm i react-idle-timer legacy-peer-deps
+**Detect and respond to your user's activity or lack thereof.** -->
